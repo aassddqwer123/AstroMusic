@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "prepare": "husky install"
   },
   "author": "",
   "license": "ISC",
@@ -48,8 +49,10 @@
     "url": "https://github.com/aassddqwer123/AstroMusic"
   },
   "keywords": [],
-  "devDependencies": {},
-   "engines": {
+  "devDependencies": {
+    "husky": "^8.0.0"
+  },
+  "engines": {
     "node": "18.x"
   }
 }
