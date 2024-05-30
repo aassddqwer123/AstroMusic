@@ -1,5 +1,5 @@
 {
-    "prefix": ".",
+    "prefix": "*",
     "token": null,
     "clientID": "",
     "guildID": "",
