@@ -42,7 +42,8 @@
     "spotify-url-info": "^3.2.3",
     "string-progressbar": "^1.0.4",
     "winston": "^3.8.2",
-    "ytdl-core": "^4.11.2"
+    "ytdl-core": "^4.11.2",
+    "husky": "^8.0.0"
   },
   "repository": {
     "type": "git",
